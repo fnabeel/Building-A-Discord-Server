@@ -38,6 +38,13 @@ So, another image was needed and this was the final choice.
 
 The reason is because it simply fits the activities hosted in the server, being gaming, and visually represents that city aesthetic. 
 
-
+- creating a template of channels, ref
+- font choice and channel flow
+- how I made a bot for various activies, examples
+- moderation, banned words, etc. json 
+- perks, giveaway, etc. 
+- how to embedd messages 
+- hierarchy 
+- 
 
 
