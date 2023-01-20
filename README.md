@@ -2,7 +2,8 @@
 
 
 <h2>What is discord?</h2>
--<b>Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". A server is a collection of persistent chat rooms and voice channels which can be accessed via invite links. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers.the service has over 350 million registered users and over 150 million monthly active users.<b>
+
+<b>Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". A server is a collection of persistent chat rooms and voice channels which can be accessed via invite links. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers.the service has over 350 million registered users and over 150 million monthly active users.<b>
 
 
 <h2>Environments and Technologies Used</h2>
@@ -19,9 +20,10 @@
 - Browser, MobileOS, or any DesktopOS
 
 <h2>Design Philosophy</h2>
+
 The name of the discord that is being created is called "The Mecca" or in english, The Centre. It is meant to be a place where everyone can come together regardless of their background and enjoy their time together in gaming, life-related things, or general talk. I wanted to get some images that reflect that, and to me a centre is a city-hub-like area. 
 
-<h1>Server Banner<h1> 
+<h3>Server Banner<h3> 
 
 ![Discord_C71hb572MI](https://user-images.githubusercontent.com/109401839/213729695-d32fe9dd-8ea8-4c27-b993-79cbae163cb8.gif)
 
