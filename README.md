@@ -1,7 +1,3 @@
-# Building-A-Discord-Server
-In this repository, I show how I built a discord with over 500 members. All its current functions, code, and automated bots used to give the end-user experience a good time. 
-
-
 <h1>Discord - Prerequisites and Installation</h1>
 
 
@@ -23,7 +19,6 @@ In this repository, I show how I built a discord with over 500 members. All its 
 - Browser, MobileOS, or any DesktopOS
 
 <h2>Design Philosophy</h2>
-
 The name of the discord that is being created is called "The Mecca" or in english, The Centre. It is meant to be a place where everyone can come together regardless of their background and enjoy their time together in gaming, life-related things, or general talk. I wanted to get some images that reflect that, and to me a centre is a city-hub-like area. 
 
 <h1>Server Banner<h1> 
