@@ -36,6 +36,8 @@ So, another image was needed and this was the final choice.
 
 ![LiveBot_O20tvIHu18](https://user-images.githubusercontent.com/109401839/213730337-b15d4122-1bd2-4087-8ad7-8600f18b65e0.gif)
 
+The reason is because it simply fits the activities hosted in the server, being gaming, and visually represents that city aesthetic. 
+
 
 
 
