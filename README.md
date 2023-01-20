@@ -1,3 +1,6 @@
+![discord-vector-logos-703973](https://user-images.githubusercontent.com/109401839/213732517-d8bed5cc-de6c-4f06-8efb-617c214e145b.png)
+
+
 <h1>Discord - Prerequisites and Installation</h1>
 
 
