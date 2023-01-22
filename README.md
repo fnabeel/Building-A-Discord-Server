@@ -26,6 +26,8 @@
 
 The name of the discord that is being created is called "The Mecca" or in english, The Centre. It is meant to be a place where everyone can come together regardless of their background and enjoy their time together in gaming, life-related things, or general talk. I wanted to get some images that reflect that, and to me a centre is a city-hub-like area. 
 
+<div>
+
 <h3>Server Banner<h3> 
 
 ![Discord_C71hb572MI](https://user-images.githubusercontent.com/109401839/213729695-d32fe9dd-8ea8-4c27-b993-79cbae163cb8.gif)
@@ -38,7 +40,54 @@ So, another image was needed and this was the final choice.
 
 The reason is because it simply fits the activities hosted in the server, being gaming, and visually represents that city aesthetic. 
 
-- creating a template of channels, ref
+<div>
+
+<h3>Channels<h3> 
+For the purpose of this server, content creation and promotion of content, I created the following channels and categories using the font Math Monotone:
+
+-SOS
+
+Content
+-Live
+-Social Media
+-Mod Media
+
+Important
+-Welcome
+-Rules
+-Alerts
+-Roles
+-Giveaways
+
+Main
+-General
+-Gaming
+-Memes
+-Photos
+-Fitness
+-Birthdays
+-Ideas
+
+Staffing
+-Mod Chat
+-Champ Chat
+-Commands
+-ModLog
+
+Voice Channels:
+-General
+-Trusted
+-Gamenight
+-Focus Mode
+-AFK
+-StaffVC
+
+Server Stats
+-Stats Channel
+
+<div>
+
+
 - font choice and channel flow
 - how I made a bot for various activies, examples
 - moderation, banned words, etc. json 
